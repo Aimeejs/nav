@@ -1,0 +1,5 @@
+- list = list || [nav]
+each nav in list
+    nav.lincoapp-nav
+        each item, i in nav
+            li: a(href="#{item.url}") #{item.value}

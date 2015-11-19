@@ -1,0 +1,29 @@
+{
+  "name": "nav",
+  "aimee": "app",
+  "description": "Aimee框架nav框架，用于创建移动webapp导航",
+  "main": "nav.js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "aimee -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aimeejs/nav.git"
+  },
+  "keywords": [
+    "nav",
+    "aimee",
+    "aimee-app"
+  ],
+  "author": "gavinning",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aimeejs/nav/issues"
+  },
+  "homepage": "https://github.com/aimeejs/nav",
+  "dependencies": {
+    "base": "*",
+    "reset": "*"
+  }
+}
